@@ -53,4 +53,4 @@ python3 dox_en.py
 
 ----------------------------
 
-<img src="https://media.discordapp.net/attachments/995599976463859713/1008188220678361088/doxxer_menu.png?width=590&height=431">
+<img src="">
